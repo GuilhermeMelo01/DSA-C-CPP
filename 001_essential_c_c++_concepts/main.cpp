@@ -13,8 +13,6 @@ int main()
 
     cout<< rectangle.length <<endl;
 
-
-
     /*
     REFERENCE
     */
